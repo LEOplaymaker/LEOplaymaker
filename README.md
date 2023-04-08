@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **aaryanrajput473@gmail.com**
 
-- 🔭 I’m currently working on My **Codeing Skills**
+- 🔭 I’m currently working on My **Coding Skills**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
