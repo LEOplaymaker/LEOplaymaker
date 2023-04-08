@@ -1,4 +1,4 @@
-![Header](./https://github.com/LEOplaymaker/LEOplaymaker/blob/main/124525397_1335116726825608_2229552422159162333_n%20(2).jpg)
+![logo](https://github.com/LEOplaymaker/LEOplaymaker/blob/main/124525397_1335116726825608_2229552422159162333_n%20(2).jpg)
 <h1 align="center">Hi 👋, I'm Aaryan Rajput</h1>
 <h3 align="center">A passionate Learner/Developer.</h3>
 
