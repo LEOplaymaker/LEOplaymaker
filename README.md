@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **AWS services**
+- 💬 Ask me about **AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
