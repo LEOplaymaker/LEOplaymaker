@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on My **Coding Skills**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Data analytics**
 
 - 💬 Ask me about **AWS**
 
